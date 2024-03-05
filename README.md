@@ -1,5 +1,3 @@
-## Information Gathering Techiques
-
 # To perform information gathering techniques
 
 # AIM:
