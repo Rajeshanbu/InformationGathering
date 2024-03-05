@@ -1,6 +1,6 @@
 # To perform information gathering techniques
 
-# AIM:
+## AIM:
 
 To perform information gathering techniques using kali linux 
 
