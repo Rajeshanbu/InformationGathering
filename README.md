@@ -46,9 +46,7 @@ get further detail by using ip2location.com website.
 
 ## History of the website:
 ## Output:
-```
 https://web.archive.org/
-```
 ![eth2 4](https://github.com/Rajeshanbu/InformationGathering/assets/118924713/9944d113-4c67-47ee-a07c-2d23d30c16b6)
 
 ## Webserver Fingerprinting:
