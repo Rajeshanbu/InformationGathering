@@ -69,7 +69,11 @@ nmap -p 21 -sV --script=banner ftp.vim.org
 ### Whatweb:
 ```
 whatweb infosys.com
+```
+```
 whatweb zoho.com
+```
+```
 whatweb -v -a 3 172.17.52.201
 ```
 ![eth2 7](https://github.com/Rajeshanbu/InformationGathering/assets/118924713/c966fc93-52b2-4567-84d8-db493e80bd8e)
